@@ -1,5 +1,5 @@
 [project]
-name = "brother_ql-inventree"
+name = "brother_ql-smosser"
 version = "1.4a0"
 description = "Python package to talk to Brother QL label printers"
 readme = "README.md"
