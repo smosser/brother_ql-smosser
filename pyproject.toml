@@ -6,6 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Philipp Klaus", email = "philipp.l.klaus@web.de" },
     {name = "Matthias Mair", email = "code@mjmair.com"},
+    { name = "Pieter Bommele", email = "pbandere@gmail.com"}
 ]
 license = {text = "GPL"}
 dependencies = [
@@ -55,4 +56,4 @@ brother_ql_debug = "brother_ql.brother_ql_debug:main"
 brother_ql_info = "brother_ql.brother_ql_info:main"
 
 [project.urls]
-repository = "https://github.com/matmair/brother_ql-inventree"
+repository = "https://github.com/smosser/brother_ql-smosser"
