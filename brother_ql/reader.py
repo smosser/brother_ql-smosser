@@ -241,6 +241,7 @@ def match_opcode(data):
 
 def interpret_response(data):
     data = bytes(data)
+    print(data)
     if len(data) < 32:
         raise NameError('Insufficient amount of data received', hex_format(data))
     if not data.startswith(b'\x80\x20\x42'):
