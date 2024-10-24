@@ -161,6 +161,15 @@ ALL_MODELS = [
         product_id=0x209D,
     ),
     Model(
+    identifier="QL-820NWBc",
+    min_max_length_dots=(150, 11811),
+    two_color=True,
+    num_invalidate_bytes=400,
+    series_code=0x34,
+    model_code=0x41,
+    product_id=0x209D,
+    ),
+    Model(
         identifier="QL-1050",
         min_max_length_dots=(295, 35433),
         number_bytes_per_row=162,
